@@ -1,4 +1,4 @@
-# subgraph-workshop
+# subgraph-workshop IPFS
 
 ## Goal
 This workshop will walk you through creating your first subgraph. In this workshop, we'll be building a subgraph API for [Fame Lady Squad](https://opensea.io/collection/fameladysquad), an NFT project whose metadata is stored on IPFS. To read more about what The Graph is and its role in the web3 stack, check out [this blog post.](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
